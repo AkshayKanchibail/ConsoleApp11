@@ -13,7 +13,7 @@ namespace ConsoleApp11
             Console.WriteLine("Hii");
             Console.WriteLine("Cars");
             Console.WriteLine("Bikes");
-
+            Console.WriteLine("Trucks");
         }
     }
 }
